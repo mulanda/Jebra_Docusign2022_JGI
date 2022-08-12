@@ -1,0 +1,10 @@
+{
+  "clazz" : "providers.arcgis.ArcGisConnection",
+  "id" : "JgiArcGisDemo",
+  "name" : "Docusign Demo",
+  "userId" : "62f3e25b49ccd67259b7ea0a",
+  "provider" : "ArcGis",
+  "api" : "ArcGisOnline",
+  "createdAt" : 1659519782463,
+  "status" : "Idle"
+}

@@ -1,0 +1,138 @@
+{
+  "applyEdits" : [ {
+    "id" : 0,
+    "adds" : [ {
+      "attributes" : {
+        "projectName" : "DocuSignHackathon",
+        "actorName" : "Daudi",
+        "cameraId" : "CAMERA3",
+        "cameraPickupDate" : 1660174680000,
+        "surveyProcedure" : "other",
+        "SP_Other" : "Special Checkup",
+        "cameraAttachedTo" : "other",
+        "CAT_Other" : "School Gate",
+        "cameraHeight" : 140,
+        "areaName" : "Kwila Primary School",
+        "cameraMake" : "CM_Spypoint",
+        "CM_Other" : null,
+        "targetFeature" : "other",
+        "TF_Other" : "Human Settlement",
+        "isCameraTrapTest" : "No",
+        "isCameraWorking" : "No",
+        "surveyComments" : "MC, Runzewe Mashariki, Tanzania",
+        "globalid" : "{6B12AF92-6140-4D7C-87AA-465B564A8221}"
+      },
+      "geometry" : {
+        "spatialReference" : {
+          "wkid" : 4326
+        },
+        "x" : 0,
+        "y" : 0
+      }
+    } ],
+    "attachments" : {
+      "adds" : [ {
+        "globalId" : "{08E7C0F2-61EC-427E-89FA-298148C20D01}",
+        "parentGlobalId" : "{6B12AF92-6140-4D7C-87AA-465B564A8221}",
+        "keywords" : "sitePhoto",
+        "contentType" : "image/png",
+        "name" : "PUGU_Kwila.png",
+        "uploadId" : "44518e0c5305444b958c047de32deb7f"
+      } ]
+    }
+  } ],
+  "response" : [ {
+    "id" : 0,
+    "addResults" : [ {
+      "objectId" : 11,
+      "uniqueId" : 11,
+      "globalId" : "{6B12AF92-6140-4D7C-87AA-465B564A8221}",
+      "success" : true
+    } ],
+    "attachments" : {
+      "addResults" : [ {
+        "objectId" : 6,
+        "globalId" : "{08E7C0F2-61EC-427E-89FA-298148C20D01}",
+        "success" : true
+      } ],
+      "updateResults" : [ ],
+      "deleteResults" : [ ]
+    }
+  } ],
+  "feature" : {
+    "attributes" : {
+      "projectName" : "DocuSignHackathon",
+      "actorName" : "Daudi",
+      "cameraId" : "CAMERA3",
+      "cameraPickupDate" : 1660174680000,
+      "cameraCoordinates" : {
+        "geometryType" : "esriGeometryPoint",
+        "x" : -6.910347,
+        "y" : 39.095764899999985,
+        "spatialReference" : {
+          "wkid" : 4326
+        }
+      },
+      "surveyProcedure" : "other",
+      "SP_Other" : "Special Checkup",
+      "cameraAttachedTo" : "other",
+      "CAT_Other" : "School Gate",
+      "cameraHeight" : 140,
+      "areaName" : "Kwila Primary School",
+      "cameraMake" : "CM_Spypoint",
+      "CM_Other" : null,
+      "targetFeature" : "other",
+      "TF_Other" : "Human Settlement",
+      "isCameraTrapTest" : "No",
+      "isCameraWorking" : "No",
+      "surveyComments" : "MC, Runzewe Mashariki, Tanzania",
+      "globalid" : "{6B12AF92-6140-4D7C-87AA-465B564A8221}",
+      "objectid" : 11
+    },
+    "geometry" : null,
+    "layerInfo" : {
+      "id" : 0,
+      "name" : "survey",
+      "type" : "Feature Layer",
+      "globalIdField" : "globalid",
+      "objectIdField" : "objectid",
+      "relationships" : [ ]
+    },
+    "result" : {
+      "globalId" : "{6B12AF92-6140-4D7C-87AA-465B564A8221}",
+      "objectId" : 11,
+      "uniqueId" : 11,
+      "success" : true
+    },
+    "attachments" : {
+      "sitePhoto" : [ {
+        "id" : 6,
+        "url" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer/0/11/attachments/6",
+        "name" : "PUGU_Kwila.png",
+        "size" : 22035,
+        "contentType" : "image/png",
+        "keywords" : "sitePhoto",
+        "globalId" : "{08E7C0F2-61EC-427E-89FA-298148C20D01}",
+        "parentGlobalId" : "{6B12AF92-6140-4D7C-87AA-465B564A8221}"
+      } ]
+    }
+  },
+  "eventType" : "addData",
+  "portalInfo" : {
+    "url" : "https://www.arcgis.com",
+    "token" : "XJtYJVfdFp8z0Ut5F6XGUniny920c85W3CtehBCZT-zbp-YuRgyEIauw9WV7tfcqsZA8kHq_3r6Jd3FQWEdnnWQCFR68N9qxQg-jodLu2npVMQQ3bgKOGtZBAmOp5vATtw7kpCaJYwdjkl_5Y4MU8UR8cbaTBhyGROt_38-d4mhTILplU-bArkrDcpx15xRZAiz7Q8MSguyMxyPGgZk9T58M8wPxfQksxVCgplhrt-A."
+  },
+  "userInfo" : {
+    "username" : "apps@jebra.io",
+    "firstName" : "Daudi",
+    "lastName" : "Chilongo",
+    "fullName" : "Daudi Chilongo",
+    "email" : "apps@jebra.io"
+  },
+  "surveyInfo" : {
+    "formItemId" : "2b4ba98e7cc64f9c9af0d97cfd3bec99",
+    "formTitle" : "JGI Docusign",
+    "serviceItemId" : "e2c16610eaa141bcb8f9d2a2ebb84c84",
+    "serviceUrl" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer"
+  }
+}

@@ -1,0 +1,1273 @@
+[ {
+  "description" : "",
+  "container" : {
+    "id" : "03cba27e-25e7-4bc6-bb54-bc2691d52d1b",
+    "type" : "OrgUnit"
+  },
+  "subcats" : {
+    "total" : 10
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "tree" : {
+    "path" : "\\Root",
+    "name" : "Root"
+  },
+  "categoryFeatures" : null,
+  "includedInBrandedPortalSync" : false,
+  "name" : null,
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 10,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "54c0f972-e2fd-4bd2-aa6f-c7329783e21e",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission\\CAMERA2",
+    "name" : "CAMERA2"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "128e7b27-7575-49d7-bee9-ada8e44155c6",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "7d256341-06e2-4f2b-8d29-0d4ffc1856f5",
+  "tree" : {
+    "path" : "\\Library\\TheBoys-sub-Mission\\CAM_52663",
+    "name" : "CAM_52663"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "5f202f3b-3d54-436b-a05e-1597b0127f72",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAM_52663",
+  "assetCount" : 7,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "1d5061a8-a2c0-4bfc-b5d9-acc46bc700d9",
+  "tree" : {
+    "path" : "\\Library\\pranesh-submission\\CAMERA1_4_12_2022_20220720T180523Z-001\\CAMERA1_4_12_2022",
+    "name" : "CAMERA1_4_12_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "77576731-0ecc-4cd8-aff3-d0ebd5ebfef0",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022",
+  "assetCount" : 14,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "00bd2d72-e779-436c-82fe-d33c9ddfa2d3",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission\\CAMERA1",
+    "name" : "CAMERA1"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "128e7b27-7575-49d7-bee9-ada8e44155c6",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "9635ca63-f9c8-4dda-9498-59de38a0cae5",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission\\CAMERA3",
+    "name" : "CAMERA3"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "128e7b27-7575-49d7-bee9-ada8e44155c6",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA3",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "ab56aa6d-41dc-4046-8fb7-c526896414e7",
+  "tree" : {
+    "path" : "\\Library\\Hackathon 2022",
+    "name" : "Hackathon 2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "Hackathon 2022",
+  "assetCount" : 1,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "79a4a5e1-cccf-4b9f-9f02-85f5c5861ea6",
+  "tree" : {
+    "path" : "\\Library\\bennyjoseph-submission",
+    "name" : "bennyjoseph-submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "bennyjoseph-submission",
+  "assetCount" : 2,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 5
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "02476362-502f-4cd4-9f2e-9aea32ee2a15",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission",
+    "name" : "jedidiah-submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "jedidiah-submission",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 5,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 3
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "128e7b27-7575-49d7-bee9-ada8e44155c6",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission",
+    "name" : "JoeW-Submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "JoeW-Submission",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 3,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 4
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "678d437d-ef35-48af-b1d5-c68598874858",
+  "tree" : {
+    "path" : "\\Library\\Will (hackathon participant)",
+    "name" : "Will (hackathon participant)"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "Will (hackathon participant)",
+  "assetCount" : 5,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 4,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "47f9c1a8-0434-4357-b3fe-e00626a71e67",
+  "tree" : {
+    "path" : "\\Library\\jesaja-submission",
+    "name" : "jesaja-submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "jesaja-submission",
+  "assetCount" : 14,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 3
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "dbbedce3-1063-49f0-98a3-c5e1290b5136",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\GRDN",
+    "name" : "GRDN"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "02476362-502f-4cd4-9f2e-9aea32ee2a15",
+  "includedInBrandedPortalSync" : false,
+  "name" : "GRDN",
+  "assetCount" : 1,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 3,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "7e0b28cd-3886-48d6-b7cf-4729189b7b5f",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\RVEN",
+    "name" : "RVEN"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "02476362-502f-4cd4-9f2e-9aea32ee2a15",
+  "includedInBrandedPortalSync" : false,
+  "name" : "RVEN",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "b5cb7a56-d916-404e-87fe-62b439725cd6",
+  "tree" : {
+    "path" : "\\Library\\ADV_submission",
+    "name" : "ADV_submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "ADV_submission",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "91d40c74-5605-4919-9992-e34c492872f0",
+  "tree" : {
+    "path" : "\\Library\\ADV_submission\\CAMERA1_4_12_2022-20220720T180523Z-001\\CAMERA1_4_12_2022",
+    "name" : "CAMERA1_4_12_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "caf48774-fbc0-4ed9-b739-124824d2cfc9",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022",
+  "assetCount" : 9,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "5f202f3b-3d54-436b-a05e-1597b0127f72",
+  "tree" : {
+    "path" : "\\Library\\TheBoys-sub-Mission",
+    "name" : "TheBoys-sub-Mission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "TheBoys-sub-Mission",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "e7fed777-ec75-4b30-9c9a-67fe55a34f43",
+  "tree" : {
+    "path" : "\\Library\\pranesh-submission",
+    "name" : "pranesh-submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "pranesh-submission",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "1e5ea909-ae48-44a5-9440-a514c646831a",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\RVEN\\camera-downloads",
+    "name" : "camera-downloads"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "7e0b28cd-3886-48d6-b7cf-4729189b7b5f",
+  "includedInBrandedPortalSync" : false,
+  "name" : "camera-downloads",
+  "assetCount" : 4,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "1bc5046e-f895-4fa8-9013-3b77d1fefb91",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\ROOK",
+    "name" : "ROOK"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "02476362-502f-4cd4-9f2e-9aea32ee2a15",
+  "includedInBrandedPortalSync" : false,
+  "name" : "ROOK",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "1f6209d5-f7c5-4c07-9e26-3c87246dde10",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\ROOK\\camera-downloads",
+    "name" : "camera-downloads"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "1bc5046e-f895-4fa8-9013-3b77d1fefb91",
+  "includedInBrandedPortalSync" : false,
+  "name" : "camera-downloads",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "8353bda4-793e-40fd-81fb-de5a07b927b8",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\JAY",
+    "name" : "JAY"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "02476362-502f-4cd4-9f2e-9aea32ee2a15",
+  "includedInBrandedPortalSync" : false,
+  "name" : "JAY",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "023dc43b-17c2-4b97-9ea7-a8d886f62c92",
+  "tree" : {
+    "path" : "\\Library\\gustavo-submission",
+    "name" : "gustavo-submission"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e037bcc4-9376-4dc0-80af-24fa51813b29",
+  "includedInBrandedPortalSync" : false,
+  "name" : "gustavo-submission",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "8460d03e-b87a-455a-ba36-34216edca393",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\RVEN\\processed-images",
+    "name" : "processed-images"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "7e0b28cd-3886-48d6-b7cf-4729189b7b5f",
+  "includedInBrandedPortalSync" : false,
+  "name" : "processed-images",
+  "assetCount" : 106,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "4c16f395-1088-4d9f-bb84-ef88acd7d2e3",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission\\CAMERA1\\CAMERA1_2022_04_12",
+    "name" : "CAMERA1_2022_04_12"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "00bd2d72-e779-436c-82fe-d33c9ddfa2d3",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_2022_04_12",
+  "assetCount" : 14,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "e3535a29-21ab-4a7d-9929-03ea9babf531",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\ROOK\\processed-images",
+    "name" : "processed-images"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "1bc5046e-f895-4fa8-9013-3b77d1fefb91",
+  "includedInBrandedPortalSync" : false,
+  "name" : "processed-images",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 2
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "0df3ab24-8eb2-4c3e-8a70-c4101c54692b",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\CROW",
+    "name" : "CROW"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "02476362-502f-4cd4-9f2e-9aea32ee2a15",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CROW",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 2,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "ae0d0cb2-3be6-4db9-9e39-e5eb35a24283",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\CROW\\camera-downloads",
+    "name" : "camera-downloads"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "0df3ab24-8eb2-4c3e-8a70-c4101c54692b",
+  "includedInBrandedPortalSync" : false,
+  "name" : "camera-downloads",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "a157f8be-3111-4444-9620-38b59324ff94",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\CROW\\processed-images",
+    "name" : "processed-images"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "0df3ab24-8eb2-4c3e-8a70-c4101c54692b",
+  "includedInBrandedPortalSync" : false,
+  "name" : "processed-images",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "f64b9f58-0af3-4077-956f-96b9a85e7a9a",
+  "tree" : {
+    "path" : "\\Library\\jesaja-submission\\CAMERA1_20220412",
+    "name" : "CAMERA1_20220412"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "47f9c1a8-0434-4357-b3fe-e00626a71e67",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_20220412",
+  "assetCount" : 14,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "63a6dc6c-33bf-4cd8-9101-f9e15fa0107b",
+  "tree" : {
+    "path" : "\\Library\\jesaja-submission\\CAMERA2_20220408",
+    "name" : "CAMERA2_20220408"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "47f9c1a8-0434-4357-b3fe-e00626a71e67",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_20220408",
+  "assetCount" : 99,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "77576731-0ecc-4cd8-aff3-d0ebd5ebfef0",
+  "tree" : {
+    "path" : "\\Library\\pranesh-submission\\CAMERA1_4_12_2022_20220720T180523Z-001",
+    "name" : "CAMERA1_4_12_2022_20220720T180523Z-001"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "e7fed777-ec75-4b30-9c9a-67fe55a34f43",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022_20220720T180523Z-001",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "6c9e60cb-7fad-4346-b5d4-75a3b4a15a09",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\GRDN\\camera-downloads",
+    "name" : "camera-downloads"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "dbbedce3-1063-49f0-98a3-c5e1290b5136",
+  "includedInBrandedPortalSync" : false,
+  "name" : "camera-downloads",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : -1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "dbbedce3-1063-49f0-98a3-c5e1290b5136",
+  "tree" : {
+    "path" : "\\Library",
+    "name" : "Library"
+  },
+  "categoryFeatures" : null,
+  "includedInBrandedPortalSync" : false,
+  "name" : "Library",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : -1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "a5a7a3ad-8bab-488c-9597-09f9e841f126",
+  "tree" : {
+    "path" : "\\Library",
+    "name" : "Library"
+  },
+  "categoryFeatures" : null,
+  "includedInBrandedPortalSync" : false,
+  "name" : "Library",
+  "assetCount" : 51,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "52ac32b6-2c58-4fbc-8291-96fd30d5b951",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\JAY\\camera-downloads",
+    "name" : "camera-downloads"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "8353bda4-793e-40fd-81fb-de5a07b927b8",
+  "includedInBrandedPortalSync" : false,
+  "name" : "camera-downloads",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "41e2b61c-27c6-4f8c-aba5-d6bc90a265b6",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\GRDN\\processed-images",
+    "name" : "processed-images"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "dbbedce3-1063-49f0-98a3-c5e1290b5136",
+  "includedInBrandedPortalSync" : false,
+  "name" : "processed-images",
+  "assetCount" : 58,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "4dc19dbd-53c3-4344-9211-40fc74b7de54",
+  "tree" : {
+    "path" : "\\Library\\jedidiah-submission\\JAY\\processed-images",
+    "name" : "processed-images"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "8353bda4-793e-40fd-81fb-de5a07b927b8",
+  "includedInBrandedPortalSync" : false,
+  "name" : "processed-images",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "8745cff7-cff0-4987-a6db-287f25f59e16",
+  "tree" : {
+    "path" : "\\Library\\Hackathon 2022\\CAMERA1_4_12_2022-20220720T180523Z-001\\CAMERA1_4_12_2022",
+    "name" : "CAMERA1_4_12_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "249a8eb9-a382-4b3a-b772-6878e51ac700",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022",
+  "assetCount" : 14,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "d5163691-645b-4984-ade1-cf8225c72db2",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission\\CAMERA2\\CAMERA2_2022_04_08",
+    "name" : "CAMERA2_2022_04_08"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "54c0f972-e2fd-4bd2-aa6f-c7329783e21e",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_2022_04_08",
+  "assetCount" : 5,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "caf48774-fbc0-4ed9-b739-124824d2cfc9",
+  "tree" : {
+    "path" : "\\Library\\ADV_submission\\CAMERA1_4_12_2022-20220720T180523Z-001",
+    "name" : "CAMERA1_4_12_2022-20220720T180523Z-001"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "b5cb7a56-d916-404e-87fe-62b439725cd6",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022-20220720T180523Z-001",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "6c616502-c143-4f52-bb66-917dcf247b52",
+  "tree" : {
+    "path" : "\\Library\\ADV_submission\\CAMERA2_4_08_2022-20220720T180527Z-001",
+    "name" : "CAMERA2_4_08_2022-20220720T180527Z-001"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "b5cb7a56-d916-404e-87fe-62b439725cd6",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_4_08_2022-20220720T180527Z-001",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "e12cb847-6068-4b5e-93b8-d77f388c5ea7",
+  "tree" : {
+    "path" : "\\Library\\ADV_submission\\CAMERA2_4_08_2022-20220720T180527Z-001\\CAMERA2_4_08_2022",
+    "name" : "CAMERA2_4_08_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "6c616502-c143-4f52-bb66-917dcf247b52",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_4_08_2022",
+  "assetCount" : 5,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "ce762380-c7b5-4766-93c3-04e6df034116",
+  "tree" : {
+    "path" : "\\Library\\gustavo-submission\\CAMERA1_4_12_2022",
+    "name" : "CAMERA1_4_12_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "023dc43b-17c2-4b97-9ea7-a8d886f62c92",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022",
+  "assetCount" : 3,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "6840ac26-380f-461e-a617-ea3d457edce0",
+  "tree" : {
+    "path" : "\\Library\\gustavo-submission\\CAMERA2_8_9_2022",
+    "name" : "CAMERA2_8_9_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "023dc43b-17c2-4b97-9ea7-a8d886f62c92",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_8_9_2022",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "0ce433c8-f67e-4d0a-8bf0-453ce00ec7b1",
+  "tree" : {
+    "path" : "\\Library\\JoeW-Submission\\CAMERA3\\CAMERA3_2022_08_10",
+    "name" : "CAMERA3_2022_08_10"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "9635ca63-f9c8-4dda-9498-59de38a0cae5",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA3_2022_08_10",
+  "assetCount" : 5,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "a0ba6b1c-3b42-4552-bd0a-f26145ea7cc6",
+  "tree" : {
+    "path" : "\\Library\\Hackathon 2022\\CAMERA2_4_08_2022-20220720T180527Z-001",
+    "name" : "CAMERA2_4_08_2022-20220720T180527Z-001"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "ab56aa6d-41dc-4046-8fb7-c526896414e7",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_4_08_2022-20220720T180527Z-001",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 1
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "249a8eb9-a382-4b3a-b772-6878e51ac700",
+  "tree" : {
+    "path" : "\\Library\\Hackathon 2022\\CAMERA1_4_12_2022-20220720T180523Z-001",
+    "name" : "CAMERA1_4_12_2022-20220720T180523Z-001"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "ab56aa6d-41dc-4046-8fb7-c526896414e7",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_4_12_2022-20220720T180523Z-001",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 1,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "e7871fbb-8728-4cc6-9223-1004cf325f68",
+  "tree" : {
+    "path" : "\\Library\\Hackathon 2022\\CAMERA2_4_08_2022-20220720T180527Z-001\\CAMERA2_4_08_2022",
+    "name" : "CAMERA2_4_08_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "a0ba6b1c-3b42-4552-bd0a-f26145ea7cc6",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA2_4_08_2022",
+  "assetCount" : 5,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "678d437d-ef35-48af-b1d5-c68598874859",
+  "tree" : {
+    "path" : "\\Library\\Will (hackathon participant)\\test2",
+    "name" : "test2"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "678d437d-ef35-48af-b1d5-c68598874858",
+  "includedInBrandedPortalSync" : false,
+  "name" : "test2",
+  "assetCount" : 1,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "23c8df30-6ea1-48ad-9dbe-97b85a8905a3",
+  "tree" : {
+    "path" : "\\Library\\Will (hackathon participant)\\CAMERA1_3_7_2022",
+    "name" : "CAMERA1_3_7_2022"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "678d437d-ef35-48af-b1d5-c68598874858",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_3_7_2022",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "c850d186-6ab5-47d4-b4d1-658d68212531",
+  "tree" : {
+    "path" : "\\Library\\Will (hackathon participant)\\CAMERA1_3_5_2019",
+    "name" : "CAMERA1_3_5_2019"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "678d437d-ef35-48af-b1d5-c68598874858",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_3_5_2019",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+}, {
+  "description" : "",
+  "container" : null,
+  "subcats" : {
+    "total" : 0
+  },
+  "syncedBrandedPortals" : null,
+  "id" : "770f4943-c9e0-4b53-b7f4-f3ee65055bcf",
+  "tree" : {
+    "path" : "\\Library\\Will (hackathon participant)\\CAMERA1_1_3_2016",
+    "name" : "CAMERA1_1_3_2016"
+  },
+  "categoryFeatures" : null,
+  "parentId" : "678d437d-ef35-48af-b1d5-c68598874858",
+  "includedInBrandedPortalSync" : false,
+  "name" : "CAMERA1_1_3_2016",
+  "assetCount" : 0,
+  "connectionId" : "JgiMediaValetDemo",
+  "subfolderCount" : 0,
+  "_links" : {
+    "self" : "category",
+    "functions" : [ "categories", "subcategories", "categoryAssets" ]
+  },
+  "clazz" : "providers.mediavalet.data.MediaValetCategory"
+} ]

@@ -1,0 +1,138 @@
+{
+  "applyEdits" : [ {
+    "id" : 0,
+    "adds" : [ {
+      "attributes" : {
+        "projectName" : "DocuSignHackathon",
+        "actorName" : "Daudi",
+        "cameraId" : "CAMERA1",
+        "cameraPickupDate" : 1660173300000,
+        "surveyProcedure" : "SP_ChangeBatteries",
+        "SP_Other" : null,
+        "cameraAttachedTo" : "CAT_Tree",
+        "CAT_Other" : null,
+        "cameraHeight" : 110,
+        "areaName" : "BamBamboo Campsite (Pugu Hills Forest Reserve)",
+        "cameraMake" : "CM_Browning",
+        "CM_Other" : null,
+        "targetFeature" : "TF_WildlifeTrail",
+        "TF_Other" : null,
+        "isCameraTrapTest" : "Yes",
+        "isCameraWorking" : "Yes",
+        "surveyComments" : "34R2+77W, Unnamed Road, Kisarawe, Tanzania",
+        "globalid" : "{95DDA01C-0E08-4B8D-8DBE-A6CC666E912B}"
+      },
+      "geometry" : {
+        "spatialReference" : {
+          "wkid" : 4326
+        },
+        "x" : 0,
+        "y" : 0
+      }
+    } ],
+    "attachments" : {
+      "adds" : [ {
+        "globalId" : "{C74C28B9-66D4-478F-8AE3-01176A2C1932}",
+        "parentGlobalId" : "{95DDA01C-0E08-4B8D-8DBE-A6CC666E912B}",
+        "keywords" : "sitePhoto",
+        "contentType" : "image/jpeg",
+        "name" : "PUGU_Bamboo.jpeg",
+        "uploadId" : "909be85321ed479e8c16bd45a33ab42b"
+      } ]
+    }
+  } ],
+  "response" : [ {
+    "id" : 0,
+    "addResults" : [ {
+      "objectId" : 8,
+      "uniqueId" : 8,
+      "globalId" : "{95DDA01C-0E08-4B8D-8DBE-A6CC666E912B}",
+      "success" : true
+    } ],
+    "attachments" : {
+      "addResults" : [ {
+        "objectId" : 3,
+        "globalId" : "{C74C28B9-66D4-478F-8AE3-01176A2C1932}",
+        "success" : true
+      } ],
+      "updateResults" : [ ],
+      "deleteResults" : [ ]
+    }
+  } ],
+  "feature" : {
+    "attributes" : {
+      "projectName" : "DocuSignHackathon",
+      "actorName" : "Daudi",
+      "cameraId" : "CAMERA1",
+      "cameraPickupDate" : 1660173300000,
+      "cameraCoordinates" : {
+        "geometryType" : "esriGeometryPoint",
+        "x" : 39.092574900000046,
+        "y" : -6.904671900000953,
+        "spatialReference" : {
+          "wkid" : 4326
+        }
+      },
+      "surveyProcedure" : "SP_ChangeBatteries",
+      "SP_Other" : null,
+      "cameraAttachedTo" : "CAT_Tree",
+      "CAT_Other" : null,
+      "cameraHeight" : 110,
+      "areaName" : "BamBamboo Campsite (Pugu Hills Forest Reserve)",
+      "cameraMake" : "CM_Browning",
+      "CM_Other" : null,
+      "targetFeature" : "TF_WildlifeTrail",
+      "TF_Other" : null,
+      "isCameraTrapTest" : "Yes",
+      "isCameraWorking" : "Yes",
+      "surveyComments" : "34R2+77W, Unnamed Road, Kisarawe, Tanzania",
+      "globalid" : "{95DDA01C-0E08-4B8D-8DBE-A6CC666E912B}",
+      "objectid" : 8
+    },
+    "geometry" : null,
+    "layerInfo" : {
+      "id" : 0,
+      "name" : "survey",
+      "type" : "Feature Layer",
+      "globalIdField" : "globalid",
+      "objectIdField" : "objectid",
+      "relationships" : [ ]
+    },
+    "result" : {
+      "globalId" : "{95DDA01C-0E08-4B8D-8DBE-A6CC666E912B}",
+      "objectId" : 8,
+      "uniqueId" : 8,
+      "success" : true
+    },
+    "attachments" : {
+      "sitePhoto" : [ {
+        "id" : 3,
+        "url" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer/0/8/attachments/3",
+        "name" : "PUGU_Bamboo.jpeg",
+        "size" : 50200,
+        "contentType" : "image/jpeg",
+        "keywords" : "sitePhoto",
+        "globalId" : "{C74C28B9-66D4-478F-8AE3-01176A2C1932}",
+        "parentGlobalId" : "{95DDA01C-0E08-4B8D-8DBE-A6CC666E912B}"
+      } ]
+    }
+  },
+  "eventType" : "addData",
+  "portalInfo" : {
+    "url" : "https://www.arcgis.com",
+    "token" : "XJtYJVfdFp8z0Ut5F6XGUniny920c85W3CtehBCZT-zbp-YuRgyEIauw9WV7tfcqsZA8kHq_3r6Jd3FQWEdnnWQCFR68N9qxQg-jodLu2npVMQQ3bgKOGtZBAmOp5vATtw7kpCaJYwdjkl_5Y4MU8UR8cbaTBhyGROt_38-d4mhTILplU-bArkrDcpx15xRZAiz7Q8MSguyMxyPGgZk9T58M8wPxfQksxVCgplhrt-A."
+  },
+  "userInfo" : {
+    "username" : "apps@jebra.io",
+    "firstName" : "Daudi",
+    "lastName" : "Chilongo",
+    "fullName" : "Daudi Chilongo",
+    "email" : "apps@jebra.io"
+  },
+  "surveyInfo" : {
+    "formItemId" : "2b4ba98e7cc64f9c9af0d97cfd3bec99",
+    "formTitle" : "JGI Docusign",
+    "serviceItemId" : "e2c16610eaa141bcb8f9d2a2ebb84c84",
+    "serviceUrl" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer"
+  }
+}
