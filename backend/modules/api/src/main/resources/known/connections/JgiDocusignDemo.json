@@ -1,0 +1,11 @@
+{
+  "clazz" : "providers.docusign.DocusignConnection",
+  "id" : "JgiDocusignDemo",
+  "name" : "DocuSign Demo",
+  "userId" : "62f3e25b49ccd67259b7ea0a",
+  "provider" : "Docusign",
+  "api" : "DocusignAPI",
+  "createdAt" : 1660000444978,
+  "status" : "Connected",
+  "accountId" : "0cb9cc73-184a-4a38-aaec-4ae9a7a52d2a"
+}

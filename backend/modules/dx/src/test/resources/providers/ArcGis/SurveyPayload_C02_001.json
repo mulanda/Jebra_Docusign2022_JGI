@@ -1,0 +1,138 @@
+{
+  "applyEdits" : [ {
+    "id" : 0,
+    "adds" : [ {
+      "attributes" : {
+        "projectName" : "DocuSignHackathon",
+        "actorName" : "Daudi",
+        "cameraId" : "CAMERA2",
+        "cameraPickupDate" : 1660173780000,
+        "surveyProcedure" : "SP_NewCamera",
+        "SP_Other" : null,
+        "cameraAttachedTo" : "CAT_Post",
+        "CAT_Other" : null,
+        "cameraHeight" : 120,
+        "areaName" : "Pugu Hills Forest Reserve",
+        "cameraMake" : "CM_Cuddeback",
+        "CM_Other" : null,
+        "targetFeature" : "TF_WildlifeFeedingArea",
+        "TF_Other" : null,
+        "isCameraTrapTest" : "Yes",
+        "isCameraWorking" : "Yes",
+        "surveyComments" : "33QV+VF6, Julius K. Nyerere Road, Dar es Salaam, Tanzania",
+        "globalid" : "{8246A05F-8921-40BA-80E1-3DF7256DC2B9}"
+      },
+      "geometry" : {
+        "spatialReference" : {
+          "wkid" : 4326
+        },
+        "x" : 0,
+        "y" : 0
+      }
+    } ],
+    "attachments" : {
+      "adds" : [ {
+        "globalId" : "{C3A9162C-D01E-446D-825A-4AA3078C132B}",
+        "parentGlobalId" : "{8246A05F-8921-40BA-80E1-3DF7256DC2B9}",
+        "keywords" : "sitePhoto",
+        "contentType" : "image/jpeg",
+        "name" : "PUGU_NatureForest.jpeg",
+        "uploadId" : "5a5b716b78f549d4a7192a4c924a5a1f"
+      } ]
+    }
+  } ],
+  "response" : [ {
+    "id" : 0,
+    "addResults" : [ {
+      "objectId" : 9,
+      "uniqueId" : 9,
+      "globalId" : "{8246A05F-8921-40BA-80E1-3DF7256DC2B9}",
+      "success" : true
+    } ],
+    "attachments" : {
+      "addResults" : [ {
+        "objectId" : 4,
+        "globalId" : "{C3A9162C-D01E-446D-825A-4AA3078C132B}",
+        "success" : true
+      } ],
+      "updateResults" : [ ],
+      "deleteResults" : [ ]
+    }
+  } ],
+  "feature" : {
+    "attributes" : {
+      "projectName" : "DocuSignHackathon",
+      "actorName" : "Daudi",
+      "cameraId" : "CAMERA2",
+      "cameraPickupDate" : 1660173780000,
+      "cameraCoordinates" : {
+        "geometryType" : "esriGeometryPoint",
+        "x" : -6.9098489999999995,
+        "y" : 39.08217919999999,
+        "spatialReference" : {
+          "wkid" : 4326
+        }
+      },
+      "surveyProcedure" : "SP_NewCamera",
+      "SP_Other" : null,
+      "cameraAttachedTo" : "CAT_Post",
+      "CAT_Other" : null,
+      "cameraHeight" : 120,
+      "areaName" : "Pugu Hills Forest Reserve",
+      "cameraMake" : "CM_Cuddeback",
+      "CM_Other" : null,
+      "targetFeature" : "TF_WildlifeFeedingArea",
+      "TF_Other" : null,
+      "isCameraTrapTest" : "Yes",
+      "isCameraWorking" : "Yes",
+      "surveyComments" : "33QV+VF6, Julius K. Nyerere Road, Dar es Salaam, Tanzania",
+      "globalid" : "{8246A05F-8921-40BA-80E1-3DF7256DC2B9}",
+      "objectid" : 9
+    },
+    "geometry" : null,
+    "layerInfo" : {
+      "id" : 0,
+      "name" : "survey",
+      "type" : "Feature Layer",
+      "globalIdField" : "globalid",
+      "objectIdField" : "objectid",
+      "relationships" : [ ]
+    },
+    "result" : {
+      "globalId" : "{8246A05F-8921-40BA-80E1-3DF7256DC2B9}",
+      "objectId" : 9,
+      "uniqueId" : 9,
+      "success" : true
+    },
+    "attachments" : {
+      "sitePhoto" : [ {
+        "id" : 4,
+        "url" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer/0/9/attachments/4",
+        "name" : "PUGU_NatureForest.jpeg",
+        "size" : 65400,
+        "contentType" : "image/jpeg",
+        "keywords" : "sitePhoto",
+        "globalId" : "{C3A9162C-D01E-446D-825A-4AA3078C132B}",
+        "parentGlobalId" : "{8246A05F-8921-40BA-80E1-3DF7256DC2B9}"
+      } ]
+    }
+  },
+  "eventType" : "addData",
+  "portalInfo" : {
+    "url" : "https://www.arcgis.com",
+    "token" : "XJtYJVfdFp8z0Ut5F6XGUniny920c85W3CtehBCZT-zbp-YuRgyEIauw9WV7tfcqsZA8kHq_3r6Jd3FQWEdnnWQCFR68N9qxQg-jodLu2npVMQQ3bgKOGtZBAmOp5vATtw7kpCaJYwdjkl_5Y4MU8UR8cbaTBhyGROt_38-d4mhTILplU-bArkrDcpx15xRZAiz7Q8MSguyMxyPGgZk9T58M8wPxfQksxVCgplhrt-A."
+  },
+  "userInfo" : {
+    "username" : "apps@jebra.io",
+    "firstName" : "Daudi",
+    "lastName" : "Chilongo",
+    "fullName" : "Daudi Chilongo",
+    "email" : "apps@jebra.io"
+  },
+  "surveyInfo" : {
+    "formItemId" : "2b4ba98e7cc64f9c9af0d97cfd3bec99",
+    "formTitle" : "JGI Docusign",
+    "serviceItemId" : "e2c16610eaa141bcb8f9d2a2ebb84c84",
+    "serviceUrl" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer"
+  }
+}
