@@ -1,0 +1,10 @@
+{
+  "clazz" : "providers.mediavalet.MediaValetConnection",
+  "id" : "JgiMediaValetDemo",
+  "name" : "MediaValet Demo",
+  "userId" : "62f3e25b49ccd67259b7ea0a",
+  "provider" : "MediaValet",
+  "api" : "MediaValetAPI",
+  "createdAt" : 1659997317579,
+  "status" : "Connected"
+}

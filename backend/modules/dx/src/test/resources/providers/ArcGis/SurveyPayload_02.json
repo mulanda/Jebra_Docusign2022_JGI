@@ -1,0 +1,138 @@
+{
+  "applyEdits" : [ {
+    "id" : 0,
+    "adds" : [ {
+      "attributes" : {
+        "projectName" : "DocuSignHackathon",
+        "actorName" : "daudi",
+        "cameraId" : "CAMERA2",
+        "cameraPickupDate" : 1659386340000,
+        "surveyProcedure" : "SP_NewCamera",
+        "SP_Other" : null,
+        "cameraAttachedTo" : "CAT_Post",
+        "CAT_Other" : null,
+        "cameraHeight" : 90,
+        "areaName" : "Pugu TZ",
+        "cameraMake" : "CM_Bushnell",
+        "CM_Other" : null,
+        "targetFeature" : "TF_WaterHole",
+        "TF_Other" : null,
+        "isCameraTrapTest" : "Yes",
+        "isCameraWorking" : "Yes",
+        "surveyComments" : "Fake Data",
+        "globalid" : "{7C3134A4-FA72-4EF4-8553-8D6663D6AD59}"
+      },
+      "geometry" : {
+        "spatialReference" : {
+          "wkid" : 4326
+        },
+        "x" : 0,
+        "y" : 0
+      }
+    } ],
+    "attachments" : {
+      "adds" : [ {
+        "globalId" : "{39C4FADE-C519-4D3E-87C3-4FD61A9E2390}",
+        "parentGlobalId" : "{7C3134A4-FA72-4EF4-8553-8D6663D6AD59}",
+        "keywords" : "sitePhoto",
+        "contentType" : "image/jpeg",
+        "name" : "IMG_0207.JPG",
+        "uploadId" : "5242a90b6987420bb1274b21eb9d8f73"
+      } ]
+    }
+  } ],
+  "response" : [ {
+    "id" : 0,
+    "addResults" : [ {
+      "objectId" : 7,
+      "uniqueId" : 7,
+      "globalId" : "{7C3134A4-FA72-4EF4-8553-8D6663D6AD59}",
+      "success" : true
+    } ],
+    "attachments" : {
+      "addResults" : [ {
+        "objectId" : 2,
+        "globalId" : "{39C4FADE-C519-4D3E-87C3-4FD61A9E2390}",
+        "success" : true
+      } ],
+      "updateResults" : [ ],
+      "deleteResults" : [ ]
+    }
+  } ],
+  "feature" : {
+    "attributes" : {
+      "projectName" : "DocuSignHackathon",
+      "actorName" : "daudi",
+      "cameraId" : "CAMERA2",
+      "cameraPickupDate" : 1659386340000,
+      "cameraCoordinates" : {
+        "geometryType" : "esriGeometryPoint",
+        "x" : 37.79012082461839,
+        "y" : -6.73919668396176,
+        "spatialReference" : {
+          "wkid" : 4326
+        }
+      },
+      "surveyProcedure" : "SP_NewCamera",
+      "SP_Other" : null,
+      "cameraAttachedTo" : "CAT_Post",
+      "CAT_Other" : null,
+      "cameraHeight" : 90,
+      "areaName" : "Pugu TZ",
+      "cameraMake" : "CM_Bushnell",
+      "CM_Other" : null,
+      "targetFeature" : "TF_WaterHole",
+      "TF_Other" : null,
+      "isCameraTrapTest" : "Yes",
+      "isCameraWorking" : "Yes",
+      "surveyComments" : "Fake Data",
+      "globalid" : "{7C3134A4-FA72-4EF4-8553-8D6663D6AD59}",
+      "objectid" : 7
+    },
+    "geometry" : null,
+    "layerInfo" : {
+      "id" : 0,
+      "name" : "survey",
+      "type" : "Feature Layer",
+      "globalIdField" : "globalid",
+      "objectIdField" : "objectid",
+      "relationships" : [ ]
+    },
+    "result" : {
+      "globalId" : "{7C3134A4-FA72-4EF4-8553-8D6663D6AD59}",
+      "objectId" : 7,
+      "uniqueId" : 7,
+      "success" : true
+    },
+    "attachments" : {
+      "sitePhoto" : [ {
+        "id" : 2,
+        "url" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer/0/7/attachments/2",
+        "name" : "IMG_0207.JPG",
+        "size" : 4775527,
+        "contentType" : "image/jpeg",
+        "keywords" : "sitePhoto",
+        "globalId" : "{39C4FADE-C519-4D3E-87C3-4FD61A9E2390}",
+        "parentGlobalId" : "{7C3134A4-FA72-4EF4-8553-8D6663D6AD59}"
+      } ]
+    }
+  },
+  "eventType" : "addData",
+  "portalInfo" : {
+    "url" : "https://www.arcgis.com",
+    "token" : "XJtYJVfdFp8z0Ut5F6XGUniny920c85W3CtehBCZT-zbp-YuRgyEIauw9WV7tfcqsZA8kHq_3r6Jd3FQWEdnnWQCFR68N9qxQg-jodLu2npVMQQ3bgKOGtZBAmOp5vATtw7kpCaJYwdjkl_5Y4MU8UR8cbaTBhyGROt_38-d4mhTILplU-bArkrDcpx15xRZAiz7Q8MSguyMxyPGgZk9T58M8wPxfQksxVCgplhrt-A."
+  },
+  "userInfo" : {
+    "username" : "apps@jebra.io",
+    "firstName" : "Daudi",
+    "lastName" : "Chilongo",
+    "fullName" : "Daudi Chilongo",
+    "email" : "apps@jebra.io"
+  },
+  "surveyInfo" : {
+    "formItemId" : "2b4ba98e7cc64f9c9af0d97cfd3bec99",
+    "formTitle" : "JGI Docusign",
+    "serviceItemId" : "e2c16610eaa141bcb8f9d2a2ebb84c84",
+    "serviceUrl" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer"
+  }
+}

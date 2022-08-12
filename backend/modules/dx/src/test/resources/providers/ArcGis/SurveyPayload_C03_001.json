@@ -1,0 +1,138 @@
+{
+  "applyEdits" : [ {
+    "id" : 0,
+    "adds" : [ {
+      "attributes" : {
+        "projectName" : "DocuSignHackathon",
+        "actorName" : "Daudi",
+        "cameraId" : "CAMERA3",
+        "cameraPickupDate" : 1660174260000,
+        "surveyProcedure" : "SP_RemoveCamera",
+        "SP_Other" : null,
+        "cameraAttachedTo" : "CAT_Tree",
+        "CAT_Other" : null,
+        "cameraHeight" : 130,
+        "areaName" : "Kazimzumbi nature forest",
+        "cameraMake" : "CM_Reconyx",
+        "CM_Other" : null,
+        "targetFeature" : "TF_WaterHole",
+        "TF_Other" : null,
+        "isCameraTrapTest" : "No",
+        "isCameraWorking" : "Yes",
+        "surveyComments" : "33VW+49P, Kisarawe, Tanzania",
+        "globalid" : "{AB418B16-4AE2-468C-8D96-A518D9079FFC}"
+      },
+      "geometry" : {
+        "spatialReference" : {
+          "wkid" : 4326
+        },
+        "x" : 0,
+        "y" : 0
+      }
+    } ],
+    "attachments" : {
+      "adds" : [ {
+        "globalId" : "{5C13C384-145E-40D7-861E-4D5C43782362}",
+        "parentGlobalId" : "{AB418B16-4AE2-468C-8D96-A518D9079FFC}",
+        "keywords" : "sitePhoto",
+        "contentType" : "image/jpeg",
+        "name" : "PUGU_Kazimzumbizi.jpeg",
+        "uploadId" : "221cf2c010b148c0b3251ac7f0f63f67"
+      } ]
+    }
+  } ],
+  "response" : [ {
+    "id" : 0,
+    "addResults" : [ {
+      "objectId" : 10,
+      "uniqueId" : 10,
+      "globalId" : "{AB418B16-4AE2-468C-8D96-A518D9079FFC}",
+      "success" : true
+    } ],
+    "attachments" : {
+      "addResults" : [ {
+        "objectId" : 5,
+        "globalId" : "{5C13C384-145E-40D7-861E-4D5C43782362}",
+        "success" : true
+      } ],
+      "updateResults" : [ ],
+      "deleteResults" : [ ]
+    }
+  } ],
+  "feature" : {
+    "attributes" : {
+      "projectName" : "DocuSignHackathon",
+      "actorName" : "Daudi",
+      "cameraId" : "CAMERA3",
+      "cameraPickupDate" : 1660174260000,
+      "cameraCoordinates" : {
+        "geometryType" : "esriGeometryPoint",
+        "x" : 39.11667000000006,
+        "y" : -6.899999999999978,
+        "spatialReference" : {
+          "wkid" : 4326
+        }
+      },
+      "surveyProcedure" : "SP_RemoveCamera",
+      "SP_Other" : null,
+      "cameraAttachedTo" : "CAT_Tree",
+      "CAT_Other" : null,
+      "cameraHeight" : 130,
+      "areaName" : "Kazimzumbi nature forest",
+      "cameraMake" : "CM_Reconyx",
+      "CM_Other" : null,
+      "targetFeature" : "TF_WaterHole",
+      "TF_Other" : null,
+      "isCameraTrapTest" : "No",
+      "isCameraWorking" : "Yes",
+      "surveyComments" : "33VW+49P, Kisarawe, Tanzania",
+      "globalid" : "{AB418B16-4AE2-468C-8D96-A518D9079FFC}",
+      "objectid" : 10
+    },
+    "geometry" : null,
+    "layerInfo" : {
+      "id" : 0,
+      "name" : "survey",
+      "type" : "Feature Layer",
+      "globalIdField" : "globalid",
+      "objectIdField" : "objectid",
+      "relationships" : [ ]
+    },
+    "result" : {
+      "globalId" : "{AB418B16-4AE2-468C-8D96-A518D9079FFC}",
+      "objectId" : 10,
+      "uniqueId" : 10,
+      "success" : true
+    },
+    "attachments" : {
+      "sitePhoto" : [ {
+        "id" : 5,
+        "url" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer/0/10/attachments/5",
+        "name" : "PUGU_Kazimzumbizi.jpeg",
+        "size" : 40241,
+        "contentType" : "image/jpeg",
+        "keywords" : "sitePhoto",
+        "globalId" : "{5C13C384-145E-40D7-861E-4D5C43782362}",
+        "parentGlobalId" : "{AB418B16-4AE2-468C-8D96-A518D9079FFC}"
+      } ]
+    }
+  },
+  "eventType" : "addData",
+  "portalInfo" : {
+    "url" : "https://www.arcgis.com",
+    "token" : "XJtYJVfdFp8z0Ut5F6XGUniny920c85W3CtehBCZT-zbp-YuRgyEIauw9WV7tfcqsZA8kHq_3r6Jd3FQWEdnnWQCFR68N9qxQg-jodLu2npVMQQ3bgKOGtZBAmOp5vATtw7kpCaJYwdjkl_5Y4MU8UR8cbaTBhyGROt_38-d4mhTILplU-bArkrDcpx15xRZAiz7Q8MSguyMxyPGgZk9T58M8wPxfQksxVCgplhrt-A."
+  },
+  "userInfo" : {
+    "username" : "apps@jebra.io",
+    "firstName" : "Daudi",
+    "lastName" : "Chilongo",
+    "fullName" : "Daudi Chilongo",
+    "email" : "apps@jebra.io"
+  },
+  "surveyInfo" : {
+    "formItemId" : "2b4ba98e7cc64f9c9af0d97cfd3bec99",
+    "formTitle" : "JGI Docusign",
+    "serviceItemId" : "e2c16610eaa141bcb8f9d2a2ebb84c84",
+    "serviceUrl" : "https://services3.arcgis.com/79ludGVK5yQo9M89/arcgis/rest/services/survey123_2b4ba98e7cc64f9c9af0d97cfd3bec99_fieldworker/FeatureServer"
+  }
+}
